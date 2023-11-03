@@ -15,4 +15,4 @@ console.log(n["a"]); //will work  // best way to write
 /*some of above work due to internal typecasting */
 console.log(n["name"]); // will work
 
-// key is a pointer , key stores address (unrelated to above)
+// key is a pointer , key stores address 
